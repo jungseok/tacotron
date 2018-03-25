@@ -1,4 +1,4 @@
-# tacotro: 음성합성
+# tacotron: 음성합성
 
 [(D.Voice)](https://github.com/sokcuri/multi-speaker-tacotron-tensorflow/blob/master/README_ko.md)을 사용해서 음성합성을 학습시키고 있습니다.
 
